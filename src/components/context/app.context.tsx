@@ -2,7 +2,7 @@ import { createContext, useContext, useEffect, useState } from "react";
 
 const AppContext = createContext(null);
 
-export const AppContextProvider = (props) => {
+export const AppContextProvider = ({children}: {children: React.ReactNode}) => {
     const [theme, setTheme] = useState(() => {
         const initialTheme = localStorage.getItem("theme") || "light";
         return initialTheme;
