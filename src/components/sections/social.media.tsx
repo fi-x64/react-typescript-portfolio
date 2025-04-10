@@ -1,7 +1,5 @@
 import { FaFacebook } from "react-icons/fa6";
-import { SiUdemy } from "react-icons/si";
-import { FaTiktok } from "react-icons/fa";
-import { SiYoutubeshorts } from "react-icons/si";
+import { SiGithub, SiLinkedin, SiUdemy } from "react-icons/si";
 
 interface IPropsSocial {
   youtube: string;
@@ -18,31 +16,23 @@ const SocialMedia = (props: IPropsSocial) => {
         href={youtube}
         target="_blank"
         className="highlight"
-        title="Youtube Hỏi Dân IT"
+        title="Linkedin Phi Ho"
       >
-        <SiYoutubeshorts size={30} />
+        <SiLinkedin size={30} />
       </a>
       <a
         href={tiktok}
         target="_blank"
         className="highlight"
-        title="Tiktok Hỏi Dân IT"
+        title="Github Phi Ho"
       >
-        <FaTiktok size={30} />
-      </a>
-      <a
-        href={udemy}
-        target="_blank"
-        className="highlight"
-        title="Udemy Hỏi Dân IT"
-      >
-        <SiUdemy size={30} />
+        <SiGithub size={30} />
       </a>
       <a
         href={facebook}
         target="_blank"
         className="highlight"
-        title="Facebook Hỏi Dân IT"
+        title="Facebook Phi Ho"
       >
         <FaFacebook size={30} />
       </a>

@@ -1,10 +1,10 @@
 {
-  "name": "react-portfolio-hoidanit",
+  "name": "react-typescript-portfolio",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "author": {
-    "name": "Hỏi Dân IT vs Eric",
+    "name": "My Portfolio",
     "url": "https://hoidanit.vn"
   },
   "scripts": {
