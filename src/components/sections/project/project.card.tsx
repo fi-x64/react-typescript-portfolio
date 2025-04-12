@@ -1,4 +1,3 @@
-import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
 import { CgWebsite } from "react-icons/cg";
@@ -29,7 +28,7 @@ function ProjectCard(props: IProps) {
           </Card.Text>
           <div>
             <Button variant="primary" href={props.githubLink} target="_blank">
-              <BsGithub /> &nbsp; "GitHub"
+              <BsGithub /> &nbsp; GitHub
             </Button>
 
             <Button

@@ -13,13 +13,11 @@
     "introSection": {
         "about": "Giới thiệu",
         "and": "và",
-        "heading1": "Yêu đắm say HTML/CSS và các công nghệ Web",
-        "heading2": "Mình đã dành kha khá thời gian để làm bạn với những cái tên quen thuộc như JavaScript, TypeScript và cả React nữa",
-        "heading3": "Lĩnh vực quan tâm của tôi là",
+        "heading1": "Mình thật sự đam mê HTML/CSS và mọi thứ liên quan đến công nghệ web.",
+        "heading2": "Mình đã dành kha khá thời gian để làm quen với những cái tên quen thuộc như JavaScript, TypeScript, và tất nhiên không thể thiếu React – cùng với NodeJS.",
+        "heading3": "Mình đặc biệt quan tâm đến việc xây dựng các công nghệ web mới và tạo ra những sản phẩm dựa trên nền tảng web đầy sáng tạo.",
         "heading4": "xây dựng các công nghệ web mới và các sản phẩm liên quan",
-        "heading5": "Thời gian gần đây, mình khá hứng thú với Next.js, NestJS và Tailwind CSS – bộ đôi hoàn hảo trong các dự án.",
-        "heading6": "Lúc không code thì mình... vẫn đang nghĩ về code. Cụ thể là tối ưu hiệu suất, refactor gọn hơn và tìm cách làm mọi thứ trông đẹp hơn ✨",
-        "heading7": "Mục tiêu? Trở thành một Web Dev không chỉ giỏi kỹ thuật mà còn hiểu người dùng muốn gì"
+        "heading5": "Gần đây, mình khá hứng thú với Next.js, NestJS và Tailwind CSS và đang thực hiện một số dự án cá nhân sẽ hoàn thành trong thời gian tới."
     },
     "experience": {
         "title": "Kinh nghiệm làm việc"

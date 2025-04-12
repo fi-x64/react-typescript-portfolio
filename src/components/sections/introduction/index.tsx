@@ -25,29 +25,30 @@ const Introduction = () => {
                     <p>
                         {t("introSection.heading1")}
                         <br />
-                        <br />{t("introSection.heading2")}
-                        <i>
+                        <br />
+                        
+                        {t("introSection.heading2")}
+                        {/* <i>
                             <b className='text-pink-100'> Java {t("introSection.and")} Javascript. </b>
-                        </i>
+                        </i> */}
                         <br />
                         <br />
+
                         {t("introSection.heading3")} &nbsp;
-                        <i>
-                            <b className='text-pink-100'>
+                        <br />
                                 {t("introSection.heading4")}
-                            </b>
-                        </i>
+
                         <br />
                         <br />
                         {t("introSection.heading5")}
-                        <i><b className='text-pink-100'>&nbsp;Java Spring</b> </i>
-                        {t("introSection.and")}
-                        <i>
+                        {/* <i><b className='text-pink-100'>&nbsp;Java Spring</b> </i> */}
+                        {/* {t("introSection.and")} */}
+                        {/* <i>
                             <b className='text-pink-100'>
                                 {" "}
                                 Node.js
                             </b>
-                        </i>
+                        </i> */}
 
                     </p>
                 </Col>

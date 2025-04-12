@@ -13,11 +13,11 @@
     "introSection": {
         "about": "About me",
         "and": "and",
-        "heading1": "I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️",
-        "heading2": "I am fluent in classics like",
+        "heading1": "I'm deeply passionate about HTML/CSS and modern web technologies. ",
+        "heading2": "Over the years, I’ve spent a good amount of time working with familiar tools like JavaScript, TypeScript, React—and NodeJS and they have been part of my journey.",
         "heading3": "My field of Interest's are building new",
-        "heading4": "Web Technologies and Products",
-        "heading5": "Whenever possible, I also apply my passion for developing products with"
+        "heading4": "I’m especially interested in building modern web applications and innovative digital products.",
+        "heading5": "Recently, I’ve been quite interested in Next.js, NestJS, and Tailwind CSS, and I’m currently working on a few personal projects that I plan to complete soon."
     },
     "experience": {
         "title": "Experiences"

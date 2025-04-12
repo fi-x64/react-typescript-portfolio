@@ -43,7 +43,7 @@ const HeroLeft = (props: IProps) => {
             "Software Developer",
             "Freelancer",
             "MERN Stack Developer",
-            "Open Source Contributor",
+            "Open Source",
           ],
           autoStart: true,
           loop: true,
@@ -53,10 +53,9 @@ const HeroLeft = (props: IProps) => {
       />
       <div className="mt-md-6 mt-3 mb-md-5 mb-2">
         <SocialMedia
-          youtube={APP_DATA.YOUTUBE_URL}
+          linkedin={APP_DATA.LINKEDIN_URL}
+          github={APP_DATA.GITHUB_URL}
           facebook={APP_DATA.FACEBOOK_URL}
-          tiktok={APP_DATA.TIKTOK_URL}
-          udemy={APP_DATA.UDEMY_URL}
         />
       </div>
       <div className="d-md-flex d-none gap-4">

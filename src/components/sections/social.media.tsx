@@ -1,19 +1,18 @@
 import { FaFacebook } from "react-icons/fa6";
-import { SiGithub, SiLinkedin, SiUdemy } from "react-icons/si";
+import { SiGithub, SiLinkedin } from "react-icons/si";
 
 interface IPropsSocial {
-  youtube: string;
+  linkedin: string;
+  github: string;
   facebook: string;
-  tiktok: string;
-  udemy: string;
 }
 const SocialMedia = (props: IPropsSocial) => {
-  const { youtube, tiktok, udemy, facebook } = props;
+  const { linkedin, github, facebook } = props;
 
   return (
     <div className="my-4 d-flex items-center gap-3">
       <a
-        href={youtube}
+        href={linkedin}
         target="_blank"
         className="highlight"
         title="Linkedin Phi Ho"
@@ -21,7 +20,7 @@ const SocialMedia = (props: IPropsSocial) => {
         <SiLinkedin size={30} />
       </a>
       <a
-        href={tiktok}
+        href={github}
         target="_blank"
         className="highlight"
         title="Github Phi Ho"
