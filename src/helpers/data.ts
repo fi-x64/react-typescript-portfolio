@@ -51,7 +51,7 @@ export const EXPERIENCES = [
     },
     company: {
       vi: "Học kiến thức mới mỗi ngày",
-      en: "Code and build something in everyday.",
+      en: "Code and build something new everyday.",
     },
     duration: {
       vi: "Tháng 1/2020 - Hiện tại",
@@ -84,16 +84,20 @@ MERN: MongoDB, Express, ReactJS và NodeJS.`,
     imgPath: petroMapImg,
     title: "Petro Map",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "Petro Map is an interactive web application that allows users to view, search, and save the locations of gas stations on a map. The app is built using ReactJS for a modern and responsive user interface, MongoDB to store gas station information (such as name, address, coordinates, and update time), and Leaflet to render an...",
+    description_full:
+      "Petro Map is an interactive web application that allows users to view, search, and save the locations of gas stations on a map. The app is built using ReactJS for a modern and responsive user interface, MongoDB to store gas station information (such as name, address, coordinates, and update time), and Leaflet to render an interactive map with clickable location markers. Key features include displaying gas stations on the map, adding/editing/deleting locations (with permissions), searching for nearby stations, and storing data in real-time with MongoDB.",
     githubLink: "https://github.com/fi-x64/PetroClient.git",
     demoLink: "",
   },
   {
     id: 3,
     imgPath: pigGameImg,
-    title: "Java Spring MVC",
+    title: "Pig Game",
     description:
-      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "Pig Game is a simple two-player dice game built using vanilla JavaScript, HTML, and CSS. The game simulates rolling a dice randomly in each player's turn. A player can roll the dice multiple times per turn. If the result is not 1, the number is added to their temporary score. However, if the player...",
+    description_full:
+      "Pig Game is a simple two-player dice game built using vanilla JavaScript, HTML, and CSS. The game simulates rolling a dice randomly in each player's turn. A player can roll the dice multiple times per turn. If the result is not 1, the number is added to their temporary score. However, if the player rolls a 1, they lose all temporary points for that turn and the turn passes to the next player. Players can also choose to 'Hold' to save their current temporary score to the total score. The first player to reach 100 points wins the game.",
     githubLink: "https://github.com/fi-x64/pig-game.git",
     demoLink: "https://pig-game-topaz-three.vercel.app/",
   },
@@ -101,7 +105,8 @@ MERN: MongoDB, Express, ReactJS và NodeJS.`,
     id: 4,
     imgPath: fyloImg,
     title: "Flyo",
-    description: "I'm working on some new projects. Stay tuned!",
+    description:
+      "Fylo Landing Page is a responsive web interface project using Tailwind CSS. The layout features a clean, supports Dark Mode, modern design and is fully optimized for all screen sizes including desktop, tablet, and mobile.",
     githubLink: "https://github.com/fi-x64/fylo-tailwindcss.git",
     demoLink: "https://vermillion-pothos-2897ac.netlify.app/",
   },

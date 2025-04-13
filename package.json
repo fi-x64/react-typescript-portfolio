@@ -4,8 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "author": {
-    "name": "My Portfolio",
-    "url": "https://hoidanit.vn"
+    "name": "My Portfolio"
   },
   "scripts": {
     "dev": "vite",

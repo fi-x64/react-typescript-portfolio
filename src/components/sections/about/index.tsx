@@ -2,7 +2,6 @@ import { Col, Row } from "react-bootstrap";
 import AnimationLottie from "components/share/animation-lottie";
 import codingJSON from "assets/lottie/coding.json";
 import { DEVELOPMENT_LOTTIE } from "assets/lottie/string/development";
-import { CONTACT_LOTTIE } from "assets/lottie/string/contact";
 
 import GlowCard from "components/share/glow-card";
 import { FaGraduationCap } from "react-icons/fa6";
@@ -20,14 +19,17 @@ const About = () => {
           </h3>
           <div>
             <div>
-              <p> Hi Everyone, I am HoiDanIT from Hanoi, VietNam.</p>
-
-              <p> I am currently employed as a a freelance dev (start-up).</p>
+              <p> Hi Everyone, I am Phi Ho from An Giang, VietNam.</p>
 
               <p>
                 {" "}
-                I have completed Bachelor's degree in Software Engineer at Hanoi
-                University of Science and Technology (HUST).
+                I am currently working in Ho Chi Minh city, VietNam. (start-up).
+              </p>
+
+              <p>
+                {" "}
+                I have completed Bachelor's degree in Software Engineer at Can
+                Tho University.
               </p>
             </div>
           </div>
@@ -35,15 +37,15 @@ const About = () => {
             <p>Apart from coding, some other activities that I love to do!</p>
             <ul>
               <li>Playing Games</li>
-              <li>Writing Tech Blogs</li>
+              <li>Discover Tech Gadgets and News</li>
               <li>Travelling</li>
             </ul>
           </div>
           <div>
             <p className="text-center brand-red">
-              "Pursuing Your Dreams Is How You Become Homeless ~.~"
+              "Creativity is just connecting things."
             </p>
-            <p className="text-center brand-red">--Jimmy O Yang</p>
+            <p className="text-center brand-red">--Steve Jobs</p>
           </div>
         </Col>
         <Col
@@ -78,17 +80,15 @@ const About = () => {
                 <div className="p-3 relative">
                   <div className="experience-container">
                     <div className="duration-text">
-                      <p>20xx-20xx</p>
+                      <p>2019-2023</p>
                     </div>
                     <div className="details">
                       <div className="icon">
                         <FaGraduationCap size={36} />
                       </div>
                       <div className="info">
-                        <p className="title">Softwaren Engineer</p>
-                        <p className="company">
-                          Hanoi University of Science and Technology (HUST)
-                        </p>
+                        <p className="title">Software Engineer</p>
+                        <p className="company">Can Tho University (CTU)</p>
                       </div>
                     </div>
                   </div>
@@ -108,19 +108,6 @@ const About = () => {
             github={APP_DATA.GITHUB_URL}
             facebook={APP_DATA.FACEBOOK_URL}
           />
-        </Col>
-        <Col
-          md={6}
-          xs={12}
-          className="d-flex flex-column align-items-center justify-content-center"
-        >
-          <AnimationLottie
-            width="50%"
-            //animation with rp => convert sang text
-            // https://github.com/airbnb/lottie-web/issues/2070
-            animationPath={JSON.parse(CONTACT_LOTTIE)}
-          />
-          <h4 className="text-center">Contact me</h4>
         </Col>
       </Row>
       <div className="mb-5"></div>
