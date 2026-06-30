@@ -21,10 +21,7 @@ const About = () => {
             <div>
               <p> Hi Everyone, I am Phi Ho from An Giang, VietNam.</p>
 
-              <p>
-                {" "}
-                I am currently working in Ho Chi Minh city, VietNam. (start-up).
-              </p>
+              <p> I am currently working in Ho Chi Minh city, VietNam.</p>
 
               <p>
                 {" "}

@@ -1,28 +1,28 @@
 {
-    "appHeader": {
-        "brand": "Phi Hồ",
-        "home": "Trang chủ",
-        "project": "Dự án",
-        "contact": "Liên hệ",
-        "about": "Về tác giả"
-    },
-    "heroSection": {
-        "exp": "Kinh nghiệm",
-        "cv": "Tải Resume"
-    },
-    "introSection": {
-        "about": "Giới thiệu",
-        "and": "và",
-        "heading1": "Mình thật sự đam mê HTML/CSS và mọi thứ liên quan đến công nghệ web.",
-        "heading2": "Mình đã dành kha khá thời gian để làm quen với những cái tên quen thuộc như JavaScript, TypeScript, và tất nhiên không thể thiếu React – cùng với NodeJS.",
-        "heading3": "Mình đặc biệt quan tâm đến việc xây dựng các công nghệ web mới và tạo ra những sản phẩm dựa trên nền tảng web đầy sáng tạo.",
-        "heading4": "xây dựng các công nghệ web mới và các sản phẩm liên quan",
-        "heading5": "Gần đây, mình khá hứng thú với Next.js, NestJS và Tailwind CSS và đang thực hiện một số dự án cá nhân sẽ hoàn thành trong thời gian tới."
-    },
-    "experience": {
-        "title": "Kinh nghiệm làm việc"
-    },
-    "skill": {
-        "title": "Kỹ năng"
-    }
+  "appHeader": {
+    "brand": "Phi Hồ",
+    "home": "Trang chủ",
+    "project": "Dự án",
+    "contact": "Liên hệ",
+    "about": "Về mình"
+  },
+  "heroSection": {
+    "exp": "Kinh nghiệm",
+    "cv": "Tải Resume"
+  },
+  "introSection": {
+    "about": "Giới thiệu",
+    "and": "và",
+    "heading1": "Mình thật sự đam mê HTML/CSS và mọi thứ liên quan đến công nghệ web.",
+    "heading2": "Mình đã dành nhiều thời gian với JavaScript, TypeScript, React và NodeJS — bên cạnh đó còn có Java, Kotlin và Spring Boot để xây dựng các backend service cấp doanh nghiệp.",
+    "heading3": "Mình đặc biệt quan tâm đến backend engineering với",
+    "heading4": "Java, Kotlin và Spring Boot — xây dựng REST API, microservices",
+    "heading5": "Gần đây, mình tích cực sử dụng các công cụ AI như Claude, ChatGPT và Cursor để tăng tốc quá trình phát triển — viết code sạch hơn, nhanh hơn, thiết kế kiến trúc và debug thông minh hơn."
+  },
+  "experience": {
+    "title": "Kinh nghiệm làm việc"
+  },
+  "skill": {
+    "title": "Kỹ năng"
+  }
 }

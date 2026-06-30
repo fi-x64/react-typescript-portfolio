@@ -45,6 +45,7 @@ import mongoDB from "assets/svg/skills/mongoDB.svg";
 import mysql from "assets/svg/skills/mysql.svg";
 import nextJS from "assets/svg/skills/nextJS.svg";
 import nestJS from "assets/svg/skills/nestJS.png";
+import springboot from "assets/svg/skills/springboot.svg";
 import nginx from "assets/svg/skills/nginx.svg";
 import numpy from "assets/svg/skills/numpy.svg";
 import nuxtJS from "assets/svg/skills/nuxtJS.svg";
@@ -54,7 +55,6 @@ import php from "assets/svg/skills/php.svg";
 import picsart from "assets/svg/skills/picsart.svg";
 import postgresql from "assets/svg/skills/postgresql.svg";
 import premierepro from "assets/svg/skills/premierepro.svg";
-import python from "assets/svg/skills/python.svg";
 import pytorch from "assets/svg/skills/pytorch.svg";
 import react from "assets/svg/skills/react.svg";
 import ruby from "assets/svg/skills/ruby.svg";
@@ -153,8 +153,6 @@ export const skillsImage = (skill: string) => {
       return matlab;
     case "php":
       return php;
-    case "python":
-      return python;
     case "ruby":
       return ruby;
     case "swift":
@@ -227,6 +225,8 @@ export const skillsImage = (skill: string) => {
       return wolframalpha;
     case "canva":
       return canva;
+    case "spring boot":
+      return springboot;
     default:
       break;
   }

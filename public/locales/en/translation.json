@@ -1,28 +1,28 @@
 {
-    "appHeader": {
-        "brand": "Phi Ho",
-        "home": "Home",
-        "project": "Project",
-        "contact": "Contact",
-        "about": "About"
-    },
-    "heroSection": {
-        "exp": "My Skill",
-        "cv": "Get Resume"
-    },
-    "introSection": {
-        "about": "About me",
-        "and": "and",
-        "heading1": "I'm deeply passionate about HTML/CSS and modern web technologies. ",
-        "heading2": "Over the years, I’ve spent a good amount of time working with familiar tools like JavaScript, TypeScript, React—and NodeJS and they have been part of my journey.",
-        "heading3": "My field of Interest's are building new",
-        "heading4": "I’m especially interested in building modern web applications and innovative digital products.",
-        "heading5": "Recently, I’ve been quite interested in Next.js, NestJS, and Tailwind CSS, and I’m currently working on a few personal projects that I plan to complete soon."
-    },
-    "experience": {
-        "title": "Experiences"
-    },
-    "skill": {
-        "title": "Skills"
-    }
+  "appHeader": {
+    "brand": "Phi Ho",
+    "home": "Home",
+    "project": "Project",
+    "contact": "Contact",
+    "about": "About"
+  },
+  "heroSection": {
+    "exp": "My Skill",
+    "cv": "Get Resume"
+  },
+  "introSection": {
+    "about": "About me",
+    "and": "and",
+    "heading1": "I'm deeply passionate about HTML/CSS and modern web technologies. ",
+    "heading2": "Over the years, I’ve spent a good amount of time working with JavaScript, TypeScript, React and NodeJS on the frontend and backend — as well as Java, Kotlin, and Spring Boot for enterprise-grade backend services.",
+    "heading3": "My field of interest includes backend engineering with",
+    "heading4": "Java, Kotlin, and Spring Boot — building scalable REST APIs, microservices.",
+    "heading5": "Recently, I’ve been leveraging AI tools like Claude, ChatGPT and Cursor to accelerate development — writing cleaner code faster, drafting architecture, and debugging smarter."
+  },
+  "experience": {
+    "title": "Experiences"
+  },
+  "skill": {
+    "title": "Skills"
+  }
 }
